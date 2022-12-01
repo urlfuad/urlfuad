@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @urlfuad
-- 👀 I'm interested in web developer, if looking to collaborate with me 
+- 👀 I'm interested in front end web developer, if looking to collaborate with me 
 - 👀 How to reach me send email to heyfuad1601@gmail.com
 
 <!---
